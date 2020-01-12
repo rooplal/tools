@@ -1,4 +1,4 @@
-//Recent Posts Script by www.bloggerbyte.net
+//Recent Posts Script by www.bloggerbyte.net 
 var postTitleOriginal,  myLink, myDiv, myImage,mySeparator;
 var    main;
 var float_clear=false;
