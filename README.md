@@ -15,3 +15,4 @@ var myMargin = 5;
 var mediaThumbsOnly = true;
 var showReadMore = false;
 </script>
+<script src='/feeds/posts/summary?max-results=9&amp;orderby=published&amp;alt=json-in-script&amp;callback=bprecentpostswiththumbnails'></script>
